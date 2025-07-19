@@ -1,0 +1,8 @@
+"# Streamlit App Deploy" 
+"" 
+"このリポジトリは Lesson21 で作成した Streamlit アプリのデプロイ用です。" 
+"" 
+"## 実行方法" 
+"\`\`\`bash" 
+"streamlit run lesson21.py" 
+"\`\`\`" 
